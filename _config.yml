@@ -1,6 +1,6 @@
 permalink: /:title
 
-title: BeiYuu.com
-url: http://beiyuu.com
+title: 技术改变世界 - 李想的个人博客
+url: https://richardlee88.github.io/
 feed: /atom.xml
-author_info: <a href="http://beiyuu.com/">BeiYuu</a>
+author_info: <a href="https://richardlee88.github.io/">Richard Lee</a>
